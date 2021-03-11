@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Ahmed Tchagnaou"
 languageCode = "en-us"
-baseURL = "http://atchagnaou.me"
+baseURL = "https://atchagnaou.me/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -72,4 +72,11 @@ copyright = "© {year}"
   title = "Resume"
   url = "/resume"
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> aa89c952d6cd109538b02e393e9a50f1cc446972
 

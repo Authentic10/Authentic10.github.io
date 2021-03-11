@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ahmed Tchagnaou</title>
-    <link>http://atchagnaou.me/</link>
-    <description>Recent content on Ahmed Tchagnaou</description>
+    <title>Works on Ahmed Tchagnaou</title>
+    <link>http://atchagnaou.me/work/</link>
+    <description>Recent content in Works on Ahmed Tchagnaou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Thu, 11 Mar 2021 21:51:00 +0100</lastBuildDate>
     
-	<atom:link href="http://atchagnaou.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atchagnaou.me/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -46,16 +46,6 @@
       
       <guid>http://atchagnaou.me/work/blog/</guid>
       <description>This project is a web application that let users to create posts. Users can follow each other and react to the posts of the users&#39; they are following by adding comments.   This project was built with Java Enterprise Edition, Bootstrap, JQuery and MySQL. The code source is available on Github : Blog App </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://atchagnaou.me/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://atchagnaou.me/resume/</guid>
-      <description>Resume I am a student in Big Data. Software Developer with 3 years of experience.
-Work Experience Software Developer Intern CERGI SA, Lomé-Togo - (June 2018 ~ Oct. 2018) Mobile-Money management platform. Built with ASP.NET MVC and SQL Server Software Developer Intern DCN TECHNOLOGIES, Lomé-Togo - (June 2019 ~ Sep. 2019) School management platform. Built with Laravel and MySQL Junior Cloud Consultant MANSTRICT CONSULTING, Paris-France - (June 2020 ~ Aug. 2020) Setting up of an on-premise cloud platform.</description>
     </item>
     
   </channel>

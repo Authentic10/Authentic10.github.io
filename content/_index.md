@@ -1,5 +1,5 @@
 ---
-heading: "Hi, I'm Ahmed Tchagnaou"
-subheading: "Student in Big Data."
+heading: "Salut, Je suis Ahmed Tchagnaou"
+subheading: "Etudiant en Big Data."
 handle: "a_tchagnaou"
 ---

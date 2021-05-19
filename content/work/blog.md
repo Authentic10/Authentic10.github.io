@@ -1,11 +1,10 @@
 ---
 title: "Blog App"
-date: 2021-03-11T13:36:11+01:00
 draft: true
 ---
 
 ![blog image](/Blog.png)
 
-<div style="text-align:justify;">This project is a web application that let users to create posts. Users can follow each other and react to the posts of the users' they are following by adding comments. </div> <br/>
+<div style="text-align:justify;">Ce projet est une application web qui permet aux utilisateurs de créer des posts. Les utilisateurs peuvent se suivrent et réagir aux posts en ajoutant des commentaires. </div> <br/>
 
-<div style="text-align:justify;">This project was built with Java Enterprise Edition, Bootstrap, JQuery and MySQL. The code source is available on Github : <a href="https://github.com/Authentic10/Blog" target="blank">Blog App</a></div>
+<div style="text-align:justify;">Ce projet a été créé avec Java EE, Bootstrap, JQuery et MySQL. Le code source est disponible sur Github : <a href="https://github.com/Authentic10/Blog" target="blank">Blog App</a></div>

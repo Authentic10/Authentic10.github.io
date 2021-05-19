@@ -1,6 +1,5 @@
 ---
 title: "S-Manager"
-date: 2021-03-11T21:20:28+01:00
 draft: true
 ---
 <br/>
@@ -9,6 +8,6 @@ draft: true
 
 <br/>
 
-<div style="text-align:justify;">S-Manager is a web application for school management. Both school personnel and students have access to the app. Teachers can add grades after an examination and students can consult their grades when it's available.</div> <br/>
+<div style="text-align:justify;">S-Manager est une application web pour la gestion d'une école supérieure. Les étudiants et le personnel de l'école ont accès à l'application. Les professeurs peuvent.</div> <br/>
 
-<div style="text-align:jutify;">This project was built with PHP and the framework Laravel, Bootstrap and MySQL.</div>
+<div style="text-align:jutify;">Ce projet a été créé avec PHP et le framework Laravel, Bootstrap et MySQL.<div>

@@ -1,6 +1,5 @@
 ---
 title: "Ask"
-date: 2021-03-11T21:51:00+01:00
 draft: true
 ---
 
@@ -11,6 +10,6 @@ draft: true
 
 <br/>
 
-<div style="text-align:justify;">Ask is web application built for permissions in companies. Users can ask permissions by mentioning different information as the reason, the duration, etc. After a permission is created by a user, the app notifies the user's superior by sending an email. The superior can refuse or accept the permission. Once, the superior choice is made, the user recieves an email and he can check the decision for his request.</div><br/>
+<div style="text-align:justify;">Ask est une application web créée pour les demandes de permission en entreprise. Les utilisateurs peuvent effectuer des demandes en précisant des informations comme le motif, la durée, etc. Après une demande de permission, l'application notifie le supérieur de l'utilisateur en envoyant un mail. Le supérieur peut refuser ou accepter la demande. Une fois, la décision prise, l'utilisateur reçoie un mail pour lui indiquer la décision de sa demande.</div><br/>
 
-<div style="text-align:justify;">This project was built with Java Enterprise Edition, Bootstrap and MySQL.</div>
+<div style="text-align:justify;">Ce projet a été créé avec Java EE, Bootstrp et MySQL.</div>

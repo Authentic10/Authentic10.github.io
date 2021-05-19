@@ -3,129 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://atchagnaou.me/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/"
+                href="https://atchagnaou.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://atchagnaou.me/en/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/resume/</loc>
+    <loc>https://atchagnaou.me/en/resume/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/resume/"
+                href="https://atchagnaou.me/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/resume/"
+                href="https://atchagnaou.me/en/resume/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/work/ask/</loc>
+    <loc>https://atchagnaou.me/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/work/ask/"
+                href="https://atchagnaou.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/ask/"
+                href="https://atchagnaou.me/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/work/blab/</loc>
+    <loc>https://atchagnaou.me/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/work/blab/"
+                href="https://atchagnaou.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/blab/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/work/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/work/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/work/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/work/s-manager/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/work/s-manager/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/work/s-manager/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/work/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/work/"
+                href="https://atchagnaou.me/en/tags/"
                 />
   </url>
   

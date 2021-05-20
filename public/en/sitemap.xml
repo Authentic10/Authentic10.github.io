@@ -32,6 +32,48 @@
   </url>
   
   <url>
+    <loc>https://atchagnaou.me/en/work/ask/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atchagnaou.me/work/ask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atchagnaou.me/en/work/ask/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atchagnaou.me/en/work/blab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atchagnaou.me/work/blab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atchagnaou.me/en/work/blab/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atchagnaou.me/en/work/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atchagnaou.me/work/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atchagnaou.me/en/work/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atchagnaou.me/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -46,6 +88,20 @@
   </url>
   
   <url>
+    <loc>https://atchagnaou.me/en/work/s-manager/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atchagnaou.me/work/s-manager/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atchagnaou.me/en/work/s-manager/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atchagnaou.me/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +112,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://atchagnaou.me/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atchagnaou.me/en/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atchagnaou.me/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atchagnaou.me/en/work/"
                 />
   </url>
   

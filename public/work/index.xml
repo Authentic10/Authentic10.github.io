@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Ahmed Tchagnaou</title>
-    <link>http://localhost:1313/work/</link>
+    <link>https://atchagnaou.me/work/</link>
     <description>Recent content in Works on Ahmed Tchagnaou</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© {year}</copyright>
     
-	<atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atchagnaou.me/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ask</title>
-      <link>http://localhost:1313/work/ask/</link>
+      <link>https://atchagnaou.me/work/ask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/ask/</guid>
+      <guid>https://atchagnaou.me/work/ask/</guid>
       <description>Ask est une application web créée pour les demandes de permission en entreprise. Les utilisateurs peuvent effectuer des demandes en précisant des informations comme le motif, la durée, etc. Après une demande de permission, l&#39;application notifie le supérieur de l&#39;utilisateur en envoyant un mail. Le supérieur peut refuser ou accepter la demande. Une fois, la décision prise, l&#39;utilisateur reçoie un mail pour lui indiquer la décision de sa demande.</description>
     </item>
     
     <item>
       <title>Blab</title>
-      <link>http://localhost:1313/work/blab/</link>
+      <link>https://atchagnaou.me/work/blab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/blab/</guid>
+      <guid>https://atchagnaou.me/work/blab/</guid>
       <description>Inscription Accueil Profil            Blab est un réseau social. Toutes les fonctionnalités n&#39;ont pas été implémentées. Le but était d&#39;apprendre la programmation mobile et de voir comment ces types d&#39;applications fonctionnent. Les utilisateurs peuvent créer des comptes en utilisant leur numéros de téléphone, se suivrent et ajouter de nouveaux posts. Les interactions tels que les commentaires et messages n&#39;ont pas été implémentées.</description>
     </item>
     
     <item>
       <title>Blog App</title>
-      <link>http://localhost:1313/work/blog/</link>
+      <link>https://atchagnaou.me/work/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/blog/</guid>
+      <guid>https://atchagnaou.me/work/blog/</guid>
       <description>Ce projet est une application web qui permet aux utilisateurs de créer des posts. Les utilisateurs peuvent se suivrent et réagir aux posts en ajoutant des commentaires.   Ce projet a été créé avec Java EE, Bootstrap, JQuery et MySQL. Le code source est disponible sur Github : Blog App </description>
     </item>
     
     <item>
       <title>S-Manager</title>
-      <link>http://localhost:1313/work/s-manager/</link>
+      <link>https://atchagnaou.me/work/s-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/s-manager/</guid>
+      <guid>https://atchagnaou.me/work/s-manager/</guid>
       <description>S-Manager est une application web pour la gestion d&#39;une école supérieure. Les étudiants et le personnel de l&#39;école ont accès à l&#39;application. Les professeurs peuvent.  Ce projet a été créé avec PHP et le framework Laravel, Bootstrap et MySQL.</description>
     </item>
     

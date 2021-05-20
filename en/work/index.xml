@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Ahmed Tchagnaou</title>
-    <link>http://localhost:1313/en/work/</link>
+    <link>https://atchagnaou.me/en/work/</link>
     <description>Recent content in Works on Ahmed Tchagnaou</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© {year}</copyright>
     
-	<atom:link href="http://localhost:1313/en/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atchagnaou.me/en/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ask</title>
-      <link>http://localhost:1313/en/work/ask/</link>
+      <link>https://atchagnaou.me/en/work/ask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/work/ask/</guid>
+      <guid>https://atchagnaou.me/en/work/ask/</guid>
       <description>Ask is web application built for permissions in companies. Users can ask permissions by mentioning different information as the reason, the duration, etc. After a permission is created by a user, the app notifies the user&#39;s superior by sending an email. The superior can refuse or accept the permission. Once, the superior choice is made, the user recieves an email and he can check the decision for his request.</description>
     </item>
     
     <item>
       <title>Blab</title>
-      <link>http://localhost:1313/en/work/blab/</link>
+      <link>https://atchagnaou.me/en/work/blab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/work/blab/</guid>
+      <guid>https://atchagnaou.me/en/work/blab/</guid>
       <description>Sign-up Dashboard Profile            Blab is a social network app. All the features are not implemented. The goal was to learn mobile development and know how this kind of app work under the hood. Users can create accounts using their phone number, follow each other and add new posts. The interactions as comments, likes and messages are not implemented.</description>
     </item>
     
     <item>
       <title>Blog App</title>
-      <link>http://localhost:1313/en/work/blog/</link>
+      <link>https://atchagnaou.me/en/work/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/work/blog/</guid>
+      <guid>https://atchagnaou.me/en/work/blog/</guid>
       <description>This project is a web application that let users to create posts. Users can follow each other and react to the posts of the users&#39; they are following by adding comments.   This project was built with Java Enterprise Edition, Bootstrap, JQuery and MySQL. The code source is available on Github : Blog App </description>
     </item>
     
     <item>
       <title>S-Manager</title>
-      <link>http://localhost:1313/en/work/s-manager/</link>
+      <link>https://atchagnaou.me/en/work/s-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/work/s-manager/</guid>
+      <guid>https://atchagnaou.me/en/work/s-manager/</guid>
       <description>S-Manager is a web application for school management. Both school personnel and students have access to the app. Teachers can add grades after an examination and students can consult their grades when it&#39;s available.  This project was built with PHP and the framework Laravel, Bootstrap and MySQL.</description>
     </item>
     

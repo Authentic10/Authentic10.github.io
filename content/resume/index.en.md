@@ -1,30 +1,21 @@
-# Resume
+# Résumé
 
-I am a student in Big Data. I have a bachelor's degree in Software Engineering & Computer Science. I love programming and doing some data stuff. Currently looking for an apprenticeship in Data Science.
-## Work Experience
-<h3>Software Developer Intern</h3>
-<h4><i>CERGI SA, Lomé-Togo - (June 2018 ~ Oct. 2018)</i></h4> 
-Mobile-Money management platform. Built with ASP.NET MVC and SQL Server
-
-
-<h3>Software Developer Intern</h3>
-<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (June 2019 ~ Sep. 2019)</i></h4>
-School management platform. Built with Laravel and MySQL
-
-<h3>Junior Cloud Consultant</h3>
-<h4><i>MANSTRICT CONSULTING, Paris-France - (June 2020 ~ Aug. 2020)</i></h4>
-Setting up of an on-premise cloud platform.
-
+<div style='text-align:justify;'>
+I am a student in Big Data. I have a bachelor's degree in Software Engineering & Computer Science. I love programming and doing some data stuff. Currently looking for an apprenticeship in the DATA field.
+</div>
 
 ## Skills
 <h3>Languages</h3>
-Python, R, SQL, PHP, Javascript, C, C#, Java, Ruby, HTML5, CSS3
+Python, R, SQL, Javascript, Java, PHP, C#, HTML5, CSS3
 
 <h3>Machine Learning & Deep Learning</h3>
-Scikit-learn, Tensorflow, Weka
+Scikit-learn, Tensorflow
 
 <h3>Web Development</h3>
-ASP.NET MVC, Java Enterprise Edition, Laravel, Bootstrap, JQuery, Ajax, Vue.js, Sass
+<h4>Backend</h4>
+Flask, Laravel, Java Enterprise Edition, ASP.NET MVC
+<h4>Frontend</h4>
+Bootstrap, JQuery, Ajax, ReactJS, VueJS, Sass
 
 <h3>Business Intelligence</h3>
 Tableau Desktop, Power BI, Saiku Analytics, Talend, Pentaho
@@ -34,6 +25,21 @@ SQL Server, MySQL, Oracle, PostgreSQL, HBase, Mongodb
 
 <h3>Others</h3>
 Android, Hadoop, Azure, Docker
+
+## Work Experience
+<h3>Software Developer Intern</h3>
+<h4><i>CERGI SA, Lomé-Togo - (June 2018 ~ Oct. 2018)</i></h4> 
+Development of a transaction platform (Users' management).
+
+
+<h3>Software Developer Intern</h3>
+<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (June 2019 ~ Sep. 2019)</i></h4>
+Development of a management's platform for a school.
+
+<h3>Junior Cloud Consultant</h3>
+<h4><i>MANSTRICT CONSULTING, Paris-France - (June 2020 ~ Aug. 2020)</i></h4>
+Setting up of an on-premise cloud platform.
+
 
 ## Education
 

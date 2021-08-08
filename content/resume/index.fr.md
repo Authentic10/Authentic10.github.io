@@ -1,39 +1,46 @@
 # CV
 
-Je suis étudiant en Big Data. J'ai une licence en Génie Logiciel et en Informatique. J'aime la programmation et tout ce qui a rapport avec les données. Je suis actuellement en recherche d'une alternance en Data Science.
-## Expériences
-<h3>Stagiaire en Développement d'application</h3>
-<h4><i>CERGI SA, Lomé-Togo - (Juin 2018 ~ Oct. 2018)</i></h4> 
-Plateforme de gestion de Mobile-Money. Développé avec ASP.NET MVC and SQL Server
-
-
-<h3>Stagiaire en Développement d'application</h3>
-<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (Juin 2019 ~ Sep. 2019)</i></h4>
-Plateforme de gestion d'une école supérieure. Créé avec Laravel et MySQL
-
-<h3>Stagiare Consultant Cloud</h3>
-<h4><i>MANSTRICT CONSULTING, Paris-France - (Juin 2020 ~ Août. 2020)</i></h4>
-Mise en place d'une plateforme cloud privée sur site.
-
+<div style='text-align:justify;'>
+Je suis étudiant en Big Data. J'ai une licence en Génie Logiciel et en Informatique. J'aime la programmation et tout ce qui a rapport avec les données. Je suis actuellement en recherche d'une alternance dans le domaine de la DATA.
+</div>
 
 ## Compétences
 <h3>Langages</h3>
-Python, R, SQL, PHP, Javascript, C, C#, Java, Ruby, HTML5, CSS3
+Python, R, SQL, Javascript, Java, PHP, C#, HTML5, CSS3
 
 <h3>Machine Learning & Deep Learning</h3>
-Scikit-learn, Tensorflow, Weka
+Scikit-learn, Tensorflow
 
 <h3>Development Web</h3>
-ASP.NET MVC, Java Enterprise Edition, Laravel, Bootstrap, JQuery, Ajax, Vue.js, Sass
+<h4>Backend</h4>
+Flask, Laravel, Java Enterprise Edition, ASP.NET MVC
+<h4>Frontend</h4>
+Bootstrap, JQuery, Ajax, ReactJS, VueJS, Sass
 
 <h3>Business Intelligence</h3>
 Tableau Desktop, Power BI, Saiku Analytics, Talend, Pentaho
 
 <h3>Système de gestion de bases de données</h3>
-SQL Server, MySQL, Oracle, PostgreSQL, HBase, Mongodb
+SQL Server, MySQL, Oracle, PostgreSQL, HBase, MongoDB
 
 <h3>Autres</h3>
 Android, Hadoop, Azure, Docker
+
+
+## Expériences
+<h3>Stagiaire en Développement d'application</h3>
+<h4><i>CERGI SA, Lomé-Togo - (Juin 2018 ~ Oct. 2018)</i></h4> 
+Développement d'une plateforme de transaction (Gestion des utilisateurs). 
+
+
+<h3>Stagiaire en Développement d'application</h3>
+<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (Juin 2019 ~ Sep. 2019)</i></h4>
+Développement d'une plateforme de gestion d'une école supérieure.
+
+<h3>Stagiare Consultant Cloud</h3>
+<h4><i>MANSTRICT CONSULTING, Paris-France - (Juin 2020 ~ Août. 2020)</i></h4>
+Mise en place d'une plateforme cloud On-Premise.
+
 
 ## Formation
 

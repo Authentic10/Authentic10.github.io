@@ -65,9 +65,10 @@ showPageTitleInTOC = true
 
 [[languages.en.menu.main]]
   identifier = "resume"
-  name = "Resume"
-  title = "Resume"
+  name = "Résumé"
+  title = "Résumé"
   url = "/resume"
+
 
 # French
 [[languages.fr.menu.main]]
@@ -87,6 +88,7 @@ showPageTitleInTOC = true
   name = "CV"
   title = "CV"
   url = "/resume"
+
 
 
 

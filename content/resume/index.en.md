@@ -13,13 +13,13 @@ Python, R, SQL, Javascript, Java
 Flask, Bootstrap, ReactJS, Sass
 
 <h3>Data Visualization tool</h3>
-Tableau Desktop
+Tableau Desktop, Power BI
 
 <h3>Database Systems</h3>
-MySQL, PostgreSQL, MongoDB
+MySQL, PostgreSQL, SQL Server, MongoDB
 
 <h3>Autres</h3>
-Git, Azure, Hadoop
+Git, Docker, Azure, Hadoop
 
 ## Work Experience
 

@@ -93,10 +93,10 @@ Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
 
 ## Certification
 <h3>Azure Data Scientist Associate</h3>
-Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>check</a>
+Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>vérifiez</a>
 
 <h3>Machine Learning with Python</h3>
-Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>check</a>
+Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>vérifiez</a>
 
 <br/><br/>
 

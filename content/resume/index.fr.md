@@ -1,8 +1,9 @@
 # CV
 
 <div style='text-align:justify;'>
-Je suis étudiant en <strong><em>Gestion et Analyse du Big Data</em></strong>. J'aime le <strong><em>Développement Web</em></strong>, l'<strong><em>Analyse de Données</em></strong> et l'<strong><em>Intelligence Artificielle</em></strong>. Je suis actuellement en recherche d'un stage de fin de formation. Vous pouvez trouver certains de mes projets en cliquant sur le menu "<strong>Projets</strong>" et sur ma page <a href="https://github.com/Authentic10" target='_blank'>Github</a>.
+Je suis étudiant en <strong><em>Gestion et Analyse du Big Data</em></strong>. J'aime le <strong><em>Développement Web</em></strong>, l'<strong><em>Analyse de Données</em></strong> et l'<strong><em>Intelligence Artificielle</em></strong>. Je suis actuellement stagiaire en tant qu'ingénieur de données chez Umanis et je cherche une opportunité à temps plein à partir du mois d'août. Vous pouvez trouver certains de mes projets en cliquant sur le menu "<strong>Projets</strong>" et sur ma page <a href="https://github.com/Authentic10" target='_blank'>Github</a>.
 </div>
+
 
 ## Compétences
 
@@ -22,6 +23,24 @@ MySQL, PostgreSQL, SQL Server, MongoDB
 Git, Docker, Azure, Hadoop
 
 ## Expériences
+
+<h3>Stage - Ingénieur Data</h3>
+<h4><i>Umanis, Tours-France - (Depuis Jan. 2022)</i></h4>
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Extraction de données venant de diverses sources</li>
+        <li>Transformation des données avec des jobs Spark jobs et Talend dans un environement big data</li>
+    </ul>
+</div>
+
+<h3>Recherche universitaire</h3>
+<h4><i>Université de Tours, Blois-France - (Sep 2021 ~ Jan. 2022)</i></h4>
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning and deep learning</li>
+        <li>Développement d’un outil de <strong>classification de texte</strong></li>
+    </ul>
+</div>
 
 <h3>Stage - Développeur Web</h3>
 <h4><i>ORTECH Intelligent Systems, Blois-France - (Juin 2021 ~ Août 2021)</i></h4>
@@ -72,10 +91,17 @@ Université de Tours, Blois-France - (2019 ~ 2020)
 <h3>Licence professionnelle - Génie Logiciel</h3>
 Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
 
+## Certification
+<h3>Azure Data Scientist Associate</h3>
+Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>check</a>
+
+<h3>Machine Learning with Python</h3>
+Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>check</a>
+
 <br/><br/>
 
 <div style='text-align:center;'>
-    <a href='/Ahmed Tchagnaou FR.pdf'>
+    <a href='/ahmed_tchagnaou_fr.pdf'>
         <button style='cursor:pointer; padding: 12px 30px;' download>
             Télécharger mon CV
         </button>

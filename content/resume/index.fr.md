@@ -1,9 +1,6 @@
 # CV
 
-<div style='text-align:justify;'>
-Je suis étudiant en <strong><em>Gestion et Analyse du Big Data</em></strong>. J'aime le <strong><em>Développement Web</em></strong>, l'<strong><em>Analyse de Données</em></strong> et l'<strong><em>Intelligence Artificielle</em></strong>. Je suis actuellement stagiaire en tant qu'ingénieur de données chez Umanis et je cherche une opportunité à temps plein à partir du mois d'août. Vous pouvez trouver certains de mes projets en cliquant sur le menu "<strong>Projets</strong>" et sur ma page <a href="https://github.com/Authentic10" target='_blank'>Github</a>.
-</div>
-
+Je suis Ingénieur de données chez <i>Umanis</i> en France. J'aime le <i>Développement Web</i>, l'<i>Analyse de Données</i>, l'<i>Intelligence Artificielle</i> et le <i>Cloud Computing</i>.
 
 ## Compétences
 
@@ -19,13 +16,16 @@ Tableau Desktop, Power BI
 <h3>Système de bases de données</h3>
 MySQL, PostgreSQL, SQL Server, MongoDB
 
+<h3>Cloud Computing</h3>
+Azure, AWS, Openstack
+
 <h3>Autres</h3>
-Git, Docker, Azure, Hadoop
+Git, Docker, Hadoop
 
 ## Expériences
 
-<h3>Stage - Ingénieur Data</h3>
-<h4><i>Umanis, Tours-France - (Depuis Jan. 2022)</i></h4>
+<h3>Ingénieur Data</h3>
+<h4><i>Umanis, Tours-France - (Depuis Janvier 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
         <li>Extraction de données venant de diverses sources</li>
@@ -34,7 +34,7 @@ Git, Docker, Azure, Hadoop
 </div>
 
 <h3>Recherche universitaire</h3>
-<h4><i>Université de Tours, Blois-France - (Sep 2021 ~ Jan. 2022)</i></h4>
+<h4><i>Université de Tours, Blois-France - (Septembre 2021 ~ Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
         <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning and deep learning</li>
@@ -66,7 +66,7 @@ Gestion et configuration d'une plateforme cloud sur site.
 </div>
 
 <h3>Stage - Développeur Web</h3>
-<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (Juin 2019 ~ Sep. 2019)</i></h4>
+<h4><i>DCN TECHNOLOGIES, Lomé-Togo - (Juin 2019 ~ Septembre 2019)</i></h4>
 Mise en place d'une plateforme de gestion d'une école supérieure
 <div style='font-size: 17px;'>
     <ul>
@@ -77,13 +77,13 @@ Mise en place d'une plateforme de gestion d'une école supérieure
 </div>
 
 <h3>Stage - Développeur Web</h3>
-<h4><i>CERGI SA, Lomé-Togo - (Juin 2018 ~ Oct. 2018)</i></h4>
+<h4><i>CERGI SA, Lomé-Togo - (Juin 2018 ~ Octobre 2018)</i></h4>
 Mise en place d'une plateforme de transaction (Module utilisateurs)
 
 ## Formation
 
 <h3>Master - Big Data Management and Analytics</h3>
-Université de Tours, Blois-France - Depuis 2020 (Date de fin : 2022 )
+Université de Tours, Blois-France - (2020 ~ 2022)
 
 <h3>Licence - Informatique</h3>
 Université de Tours, Blois-France - (2019 ~ 2020)

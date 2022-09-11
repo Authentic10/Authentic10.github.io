@@ -15,7 +15,7 @@ dateFormat = "Jan 2 2006"
 
 # Links to social accounts
 github = "https://github.com/Authentic10"
-email = "mailto:ahmed.tc@protonmail.com"
+email = "mailto:ahmed.tc@pm.me"
 linkedin = "https://fr.linkedin.com/in/ahmed-tchagnaou-792a1a167"
 
 # Social icons 
@@ -65,8 +65,8 @@ showPageTitleInTOC = true
 
 [[languages.en.menu.main]]
   identifier = "resume"
-  name = "CV"
-  title = "CV"
+  name = "Résumé"
+  title = "Résumé"
   url = "/resume"
 
 

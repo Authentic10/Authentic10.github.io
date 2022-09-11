@@ -1,8 +1,6 @@
 # Résumé
 
-<div style='text-align:justify;'>
-I am a student in <strong><em>Big Data Management and Analytics</em></strong>. I love <strong><em>Web Development</em></strong>, <strong><em>Data Analysis</em></strong> and <strong><em>Artificial Intelligence</em></strong>. I'm currently interning as a Data Engineer at Umanis and am looking for a full time opportunity starting in September. You can find some of my projects on the page "<strong>Work</strong>" and on my <a href="https://github.com/Authentic10" target='_blank'>Github</a> page.
-</div>
+I am a Data Engineer at <i>Umanis</i> in France. I love <i>Web Development</i>, <i>Data Analysis</i>, <i>Artificial Intelligence</i> and <i>Cloud Computing</i>.
 
 ## Skills
 
@@ -18,12 +16,15 @@ Tableau Desktop, Power BI
 <h3>Database Systems</h3>
 MySQL, PostgreSQL, SQL Server, MongoDB
 
-<h3>Autres</h3>
-Git, Docker, Azure, Hadoop
+<h3>Cloud Computing</h3>
+Azure, AWS, Openstack
+
+<h3>Other</h3>
+Git, Docker, Hadoop
 
 ## Work Experience
 
-<h3>Internship - Data Engineer</h3>
+<h3>Data Engineer</h3>
 <h4><i>Umanis, Tours-France - (Since Jan. 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
@@ -33,10 +34,10 @@ Git, Docker, Azure, Hadoop
 </div>
 
 <h3>Graduate Researcher</h3>
-<h4><i>University of Tours, Blois-France - (Sep 2021 ~ Jan. 2022)</i></h4>
+<h4><i>University of Tours, Blois-France - (Sep 2021 ~ Aug. 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning</li>
+        <li>Made a literature review of techniques to perform <>sentiment analysis</> with machine learning and deep learning</li>
         <li>Developed a toolbox to perform <strong>text classification</strong></li>
     </ul>
 </div>
@@ -82,7 +83,7 @@ Implementation of a transaction platform (Users' management)
 ## Education
 
 <h3>Master's Degree - Big Data Management and Analytics</h3>
-University of Tours, Blois-France - (Expected Completion : 2022 )
+University of Tours, Blois-France - (2020 ~ 2022)
 
 <h3>Bachelor's Degree - Computer Science</h3>
 University of Tours, Blois-France - (2019 ~ 2020)

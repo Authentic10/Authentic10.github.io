@@ -16,7 +16,7 @@ dateFormat = "Jan 2 2006"
 # Links to social accounts
 github = "https://github.com/Authentic10"
 email = "mailto:ahmed.tc@pm.me"
-linkedin = "https://fr.linkedin.com/in/ahmed-tchagnaou-792a1a167"
+linkedin = "https://fr.linkedin.com/in/atchagnaou"
 
 # Social icons 
 iconOrder = ["GitHub", "Email", "LinkedIn"]
@@ -30,8 +30,8 @@ dateFormat = "2 Jan 2006"
 
 # Links to social accounts
 github = "https://github.com/Authentic10"
-email = "mailto:ahmed.tc@protonmail.com"
-linkedin = "https://fr.linkedin.com/in/ahmed-tchagnaou-792a1a167"
+email = "mailto:ahmed.tc@pm.me"
+linkedin = "https://fr.linkedin.com/in/atchagnaou"
 
 # Social icons 
 iconOrder = ["GitHub", "Email", "LinkedIn"]

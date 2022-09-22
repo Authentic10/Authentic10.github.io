@@ -37,7 +37,7 @@ Git, Docker, Hadoop
 <h4><i>Université de Tours, Blois-France - (Septembre 2021 ~ Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning and deep learning</li>
+        <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning et deep learning</li>
         <li>Développement d’un outil de <strong>classification de texte</strong></li>
     </ul>
 </div>

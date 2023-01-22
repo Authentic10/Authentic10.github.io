@@ -3,7 +3,7 @@ title: "Fatal Encounters"
 description: "Fatal Encounters documente les décès non policiers qui se produisent lorsque la police est présente ou qui sont précipités par l'action ou la présence de la police."
 ---
 <div style="text-align:justify;">L'objectif de ce post est d'explorer le jeu de données <a href="https://fatalencounters.org/" target="_blank">Fatal Encounters</a>. Tout d'abord, nous avons défini un ensemble de questions. Ensuite, nous avons créé des graphiques pour répondre à ces questions et enfin, nous avons commenté ces graphes.</div><br/>
-<div style="text-align:justify;">Fatal Encounters documente les décès non policiers qui se produisent lorsque la police est présente ou qui sont précipités par l'action ou la présence de la police. Il documente tous les enregistrements disponibles pour les 50 États des États-Unis, jusqu'en 2000.</div><br/>
+<div style="text-align:justify;">Fatal Encounters documente les décès non policiers qui se produisent lorsque la police est présente ou qui sont précipités par l'action ou la présence de la police. Il documente tous les enregistrements disponibles pour les 50 États des États-Unis depuis 2000.</div><br/>
 <div style="text-align:justify;"> Le plan de ce post se présente comme suit : </div>
 
 - Partie 1 : <a href="#exploration"> Exploration</a>

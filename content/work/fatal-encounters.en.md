@@ -31,7 +31,7 @@ are precipitated by police action or presence."
 ![comparaison_men_women](/graph-3.png)
 
 <br/>
-<div style="text-align:justify;">With the evolution graph produced, we can see the evolution per race but we can conclude that the deaths have highly increased around the years 2014 and 2015 but have been decreasing since 2018 in a general way. The last graph shows that more people are killed by gunshot.</div>
+<div style="text-align:justify;">With the evolution graph produced, we can see the evolution per race but we can conclude that the deaths have highly increased around the years 2014 and 2015 but have been decreasing since 2018 in general. The last graph shows that more people are killed by gunshot.</div>
 
 
 <h3 id="state">2. Visualization based on states </h3>

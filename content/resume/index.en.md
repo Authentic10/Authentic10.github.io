@@ -1,17 +1,20 @@
-# Résumé
+# CV
 
-I am a Data Engineer at <i>Umanis</i> in France. I love <i>Web Development</i>, <i>Data Analysis</i>, <i>Artificial Intelligence</i> and <i>Cloud Computing</i>.
+I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> in France. I love <i>Web Development</i>, <i>Data Analysis</i>, <i>Artificial Intelligence</i> and <i>Cloud Computing</i>.
 
 ## Skills
 
 <h3>Languages</h3>
-Python, R, SQL, Javascript, Java
+Python, R, SQL, Javascript, Java, PHP, Go, C#
+
+<h3>Machine Learning</h3>
+Scikit-Learn, Tensorflow
 
 <h3>Web Development</h3>
-Flask, Bootstrap, ReactJS, Sass
+Flask, ASP.Net MVC, Laravel, Java Enterprise Edition, Bootstrap, Bulma, Sass, JQuery, ReactJS, SvelteJs, VueJs, Hugo
 
-<h3>Data Visualization tool</h3>
-Tableau Desktop, Power BI
+<h3>Data</h3>
+Tableau Desktop, Power BI, Talend, Pentaho, Pandas, Matplotlib
 
 <h3>Database Systems</h3>
 MySQL, PostgreSQL, SQL Server, MongoDB
@@ -20,15 +23,24 @@ MySQL, PostgreSQL, SQL Server, MongoDB
 Azure, AWS, Openstack
 
 <h3>Other</h3>
-Git, Docker, Hadoop
+Git, Docker, Hadoop, Bash, WSL
 
 ## Work Experience
 
 <h3>Data Engineer</h3>
-<h4><i>Umanis, Tours-France - (Since Jan. 2022)</i></h4>
+<h4><i>CGI, Tours-France - (Since August 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Extracting data from different sources</li>
+        <li>Design of data integration jobs in a data hub</li>
+        <li>Data transformation and analysis with Spark jobs and Talend in a big data environment</li>
+    </ul>
+</div>
+
+<h3>Internship - Data Engineer</h3>
+<h4><i>Umanis, Tours-France - (January 2022 ~July 2022)</i></h4>
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Migration of Talend jobs to an internal technology based on descriptive language</li>
         <li>Transforming the extracted data using Spark jobs with Talend in a big data environment</li>
     </ul>
 </div>
@@ -37,8 +49,8 @@ Git, Docker, Hadoop
 <h4><i>University of Tours, Blois-France - (Sep 2021 ~ Aug. 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Made a literature review of techniques to perform <>sentiment analysis</> with machine learning and deep learning</li>
-        <li>Developed a toolbox to perform <strong>text classification</strong></li>
+        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning</li>
+        <li>Developed a toolbox to perform <strong>text classification</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>
 

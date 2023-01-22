@@ -1,35 +1,47 @@
 # CV
 
-Je suis Ingénieur de données chez <i>Umanis</i> en France. J'aime le <i>Développement Web</i>, l'<i>Analyse de Données</i>, l'<i>Intelligence Artificielle</i> et le <i>Cloud Computing</i>.
+Je suis Ingénieur de données chez <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> en France. J'aime le <i>Développement Web</i>, l'<i>Analyse de Données</i>, l'<i>Intelligence Artificielle</i> et le <i>Cloud Computing</i>.
 
 ## Compétences
 
 <h3>Langages</h3>
-Python, R, SQL, Javascript, Java
+Python, R, SQL, Javascript, Java, PHP, Go, C#
+
+<h3>Machine Learning</h3>
+Scikit-Learn, Tensorflow
 
 <h3>Développement Web</h3>
-Flask, Bootstrap, ReactJS, Sass
+Flask, ASP.Net MVC, Laravel, Java Enterprise Edition, Bootstrap, Bulma, Sass, JQuery, ReactJS, SvelteJs, VueJs, Hugo
 
-<h3>Outil de visualisation</h3>
-Tableau Desktop, Power BI
+<h3>Données</h3>
+Tableau Desktop, Power BI, Talend, Pentaho, Pandas, Matplotlib
 
 <h3>Système de bases de données</h3>
-MySQL, PostgreSQL, SQL Server, MongoDB
+Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, HBase
 
 <h3>Cloud Computing</h3>
 Azure, AWS, Openstack
 
 <h3>Autres</h3>
-Git, Docker, Hadoop
+Git, Docker, Hadoop, Bash, WSL
 
 ## Expériences
 
 <h3>Ingénieur Data</h3>
-<h4><i>Umanis, Tours-France - (Depuis Janvier 2022)</i></h4>
+<h4><i>CGI, Tours-France - (Depuis Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Extraction de données venant de diverses sources</li>
-        <li>Transformation des données avec des jobs Spark jobs et Talend dans un environement big data</li>
+        <li>Conception de jobs d'intégration de données dans un hub de données</li>
+        <li>Transformation et analyse de données avec des jobs Spark jobs et Talend dans un environement big data</li>
+    </ul>
+</div>
+
+<h3>Stage - Ingénieur Data</h3>
+<h4><i>Umanis, Tours-France - (Janvier 2022 ~ Juillet 2022)</i></h4>
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Migration des jobs Talend vers une technologie interne basée sur du language descriptif</li>
+        <li>Intégration de données dans un hub de données avec Talend et Spark</li>
     </ul>
 </div>
 
@@ -38,7 +50,7 @@ Git, Docker, Hadoop
 <div style='font-size: 17px;'>
     <ul>
         <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning et deep learning</li>
-        <li>Développement d’un outil de <strong>classification de texte</strong></li>
+        <li>Développement d’un outil de <strong>classification de texte</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>
 

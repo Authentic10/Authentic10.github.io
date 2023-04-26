@@ -104,6 +104,10 @@ University of Tours, Blois-France - (2019 ~ 2020)
 Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
 
 ## Certification
+
+<h3>Designing and Implementing Microsoft DevOps Solutions</h3>
+Microsoft, <a href='https://www.credly.com/badges/e4a583d0-b909-4883-a978-6ee9e835df4a/public_url' target='_blank'>check</a>
+
 <h3>Azure Data Scientist Associate</h3>
 Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>check</a>
 

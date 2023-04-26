@@ -6,6 +6,8 @@ title = "Ahmed Tchagnaou"
 baseURL = "https://atchagnaou.me"
 copyright = "© {year}"
 
+#posts = '/posts/:title/'
+
 [languages]
 [languages.en]
   languageName = "English"

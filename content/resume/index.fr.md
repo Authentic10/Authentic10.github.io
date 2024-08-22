@@ -56,7 +56,7 @@ Git, Github, Docker, Bash, WSL
 <h4><i>Université de Tours, Blois-France - (Septembre 2021 ~ Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>État de l’art des techniques d’analyse de sentiment et de classification de texte avec le machine learning <a href='/daxmod.fr' target='_blank'>Daxmod</a></li>
+        <li>État de l’art des techniques d’analyse de sentiment et de classification de texte avec le machine learning <a href='/daxmod.pdf' target='_blank'>Daxmod</a></li>
         <li>Développement d’un outil de <strong>classification de texte</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>

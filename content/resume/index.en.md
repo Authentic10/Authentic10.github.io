@@ -54,7 +54,7 @@ Git, Github, Docker, Bash, WSL
 <h4><i>University of Tours, Blois-France - (Sep 2021 ~ Aug. 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning <a href='/daxmod.fr' target='_blank'>Daxmod</a></li>
+        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning <a href='/daxmod.pdf' target='_blank'>Daxmod</a></li>
         <li>Developed a toolbox to perform <strong>text classification</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>

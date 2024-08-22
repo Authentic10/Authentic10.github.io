@@ -1,29 +1,29 @@
 # CV
 
-I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> in France. I love <i>Web Development</i>, <i>Data Analysis</i>, <i>Artificial Intelligence</i> and <i>Cloud Computing</i>.
+I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> in France. I am also a Developer and I am learning and building with Artifical Intelligence and Cloud Computing.
 
 ## Skills
 
 <h3>Languages</h3>
-Python, R, SQL, Javascript, Java, PHP, Go, C#
+Python, R, SQL, Javascript, Java, Scala
 
-<h3>Machine Learning</h3>
-Scikit-Learn, Tensorflow
+<h3>Machine Learning & Artifical Intelligence</h3>
+Generative AI, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
 
 <h3>Web Development</h3>
-Flask, ASP.Net MVC, Laravel, Java Enterprise Edition, Bootstrap, Bulma, Sass, JQuery, ReactJS, SvelteJs, VueJs, Hugo
+Django, Flask, SvelteJs, VueJs, Hugo
 
 <h3>Data</h3>
-Tableau Desktop, Power BI, Talend, Pentaho, Pandas, Matplotlib
+Hadoop, Spark, Hive, Impala, Talend, Pandas, Matplotlib, Tableau Desktop, Power BI
 
 <h3>Database Systems</h3>
-MySQL, PostgreSQL, SQL Server, MongoDB
+MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, HBase
 
 <h3>Cloud Computing</h3>
 Azure, AWS, Openstack
 
 <h3>Other</h3>
-Git, Docker, Hadoop, Bash, WSL
+Git, Github, Docker, Bash, WSL
 
 ## Work Experience
 
@@ -31,8 +31,12 @@ Git, Docker, Hadoop, Bash, WSL
 <h4><i>CGI, Tours-France - (Since August 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Design of data integration jobs in a data hub</li>
-        <li>Data transformation and analysis with Spark jobs and Talend in a big data environment</li>
+        <li>Analysis of customer requirements and existing solutions</li>
+        <li>Design of data integration and transformation solutions</li>
+        <li>Implementation of data integration, transformation and restitution processes</li>
+        <li>Perform tests and code reviews</li>
+        <li>Analysis of production incidents</li>
+        <li>Back‑documentation of existing solutions</li>
     </ul>
 </div>
 
@@ -40,8 +44,10 @@ Git, Docker, Hadoop, Bash, WSL
 <h4><i>Umanis, Tours-France - (January 2022 ~July 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Migration of Talend jobs to an internal technology based on descriptive language</li>
-        <li>Transforming the extracted data using Spark jobs with Talend in a big data environment</li>
+        <li>Designed data integration solutions</li>
+        <li>Built pipelines for integrating data from different sources into a data hub</li>
+        <li>Built data transformation and restitution pipelines</li>
+        <li>Integration testing</li>
     </ul>
 </div>
 
@@ -56,14 +62,12 @@ Git, Docker, Hadoop, Bash, WSL
 
 <h3>Internship - Web Developer</h3>
 <h4><i>ORTECH Intelligent Systems, Blois-France - (June 2021 ~ August 2021)</i></h4>
-Implementation of a monitoring and control system (Administration module)
+Implementated a monitoring and control system (Administration module)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Implementation of a <strong>Restful API</strong> with <strong>Flask</strong></li>
-        <li>Implementation of a <strong>frontend</strong> app with <strong>ReactJS</strong> communicating with the <strong>API</strong></li>
-        <li>Users management</li>
-        <li>Access management</li>
-        <li>Logs management</li>
+        <li>Designed a system with the micro‑services architecture for a monitoring application</li>
+        <li>Built a REST API for user’s management and administration with Flask</li>
+        <li>Built a web application with React for the REST API</li>
     </ul>
 </div>
 
@@ -72,14 +76,15 @@ Implementation of a monitoring and control system (Administration module)
 Configuration and management of an on-premise cloud.
 <div style='font-size: 17px;'>
     <ul>
-        <li>Configuration of a virtual network</li>
-        <li>Creation et Configuration of a Ubuntu virtual machine</li>
+        <li>Configured an on‑premise cloud based on Openstack</li>
+        <li>Designed and configured a virtual network</li>
+        <li>Configured a virtual machine to serve as a web server</li>
     </ul>
 </div>
 
 <h3>Internship - Web Developer</h3>
 <h4><i>DCN TECHNOLOGIES, Lomé-Togo - (June 2019 ~ Sep. 2019)</i></h4>
-Implementation of a management platform for a school
+Designed and built a system for school management
 <div style='font-size: 17px;'>
     <ul>
         <li>Curriculums management<li>
@@ -90,26 +95,55 @@ Implementation of a management platform for a school
 
 <h3>Internship - Web Developer</h3>
 <h4><i>CERGI SA, Lomé-Togo - (June 2018 ~ Oct. 2018)</i></h4>
-Implementation of a transaction platform (Users' management)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Designed a database for user management platform</li>
+        <li>Built a web application using C# with ASP.NET MVC, Bootstrap, and JQuery</li>
+    </ul>
+</div>
 
 ## Education
 
 <h3>Master's Degree - Big Data Management and Analytics</h3>
 University of Tours, Blois-France - (2020 ~ 2022)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Business Intelligence : Data Warehousing, Reporting</li>
+        <li>Data Management : Big Data, Data Mining</li>
+        <li>Artificial Intelligence : Pattern and image recognition (Computer Vision), Natural language processing (NLP)</li>
+    </ul>
+</div>
 
 <h3>Bachelor's Degree - Computer Science</h3>
 University of Tours, Blois-France - (2019 ~ 2020)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Web and Mobile apps development</li>
+        <li>Database Management Systems</li>
+        <li>Algorithms</li>
+    </ul>
+</div>
 
 <h3>Bachelor's Degree - Software Engineering</h3>
 Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Programming and Software Engineering</li>
+        <li>Database management and administration</li>
+        <li>Network</li>
+    </ul>
+</div>
 
 ## Certification
 
-<h3>Designing and Implementing Microsoft DevOps Solutions</h3>
+<h3>Azure AI Engineer Associate</h3>
+Microsoft, <a href='https://learn.microsoft.com/en-us/users/authentic/credentials/e9464f52eac003ac' target='_blank'>check</a>
+
+<h3>Azure DevOps Engineer Expert</h3>
 Microsoft, <a href='https://www.credly.com/badges/e4a583d0-b909-4883-a978-6ee9e835df4a/public_url' target='_blank'>check</a>
 
 <h3>Azure Data Scientist Associate</h3>
-Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>check</a>
+Microsoft, <a href='https://learn.microsoft.com/en-us/users/authentic/credentials/1ff1e5bfcbe8be36' target='_blank'>check</a>
 
 <h3>Machine Learning with Python</h3>
 Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>check</a>

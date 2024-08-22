@@ -4,47 +4,30 @@
     <title>Works on Ahmed Tchagnaou</title>
     <link>https://atchagnaou.me/work/</link>
     <description>Recent content in Works on Ahmed Tchagnaou</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>fr</language>
     <copyright>© {year}</copyright>
-    
-	<atom:link href="https://atchagnaou.me/work/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://atchagnaou.me/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ask</title>
-      <link>https://atchagnaou.me/work/ask/</link>
+      <title>Daxmod</title>
+      <link>https://atchagnaou.me/work/daxmod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atchagnaou.me/work/ask/</guid>
-      <description>Ask est une application web créée pour les demandes de permission en entreprise. Les utilisateurs peuvent effectuer des demandes en précisant des informations comme le motif, la durée, etc. Après une demande de permission, l&#39;application notifie le supérieur de l&#39;utilisateur en envoyant un mail. Le supérieur peut refuser ou accepter la demande. Une fois, la décision prise, l&#39;utilisateur reçoie un mail pour lui indiquer la décision de sa demande.</description>
+      <guid>https://atchagnaou.me/work/daxmod/</guid>
+      <description>Daxmod est un outil qui permet aux ingénieurs et chercheurs d&#39;effectuer des expérimentations sur la classification de texte. Il fournit des modules pour l&#39;analyse de données, l&#39;extraction et la sélection des caractéristiques, la création des modèles d&#39;apprentissage et la persistence des modèles. Daxmod a été développé avec Python. Le code source est disponible sur Github : Daxmod </description>
     </item>
-    
     <item>
-      <title>Blab</title>
-      <link>https://atchagnaou.me/work/blab/</link>
+      <title>Fatal Encounters</title>
+      <link>https://atchagnaou.me/work/fatal-encounters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atchagnaou.me/work/blab/</guid>
-      <description>Inscription Accueil Profil            Blab est un réseau social. Toutes les fonctionnalités n&#39;ont pas été implémentées. Le but était d&#39;apprendre la programmation mobile et de voir comment ces types d&#39;applications fonctionnent. Les utilisateurs peuvent créer des comptes en utilisant leur numéros de téléphone, se suivrent et ajouter de nouveaux posts. Les interactions tels que les commentaires et messages n&#39;ont pas été implémentées.</description>
+      <guid>https://atchagnaou.me/work/fatal-encounters/</guid>
+      <description>L&#39;objectif de ce post est d&#39;explorer le jeu de données Fatal Encounters. Tout d&#39;abord, nous avons défini un ensemble de questions. Ensuite, nous avons créé des graphiques pour répondre à ces questions et enfin, nous avons commenté ces graphes. Fatal Encounters documente les décès non policiers qui se produisent lorsque la police est présente ou qui sont précipités par l&#39;action ou la présence de la police. Il documente tous les enregistrements disponibles pour les 50 États des États-Unis depuis 2000.</description>
     </item>
-    
     <item>
-      <title>Blog App</title>
-      <link>https://atchagnaou.me/work/blog/</link>
+      <title>KNN à partir de zéro</title>
+      <link>https://atchagnaou.me/work/knn-iris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atchagnaou.me/work/blog/</guid>
-      <description>Ce projet est une application web qui permet aux utilisateurs de créer des posts. Les utilisateurs peuvent se suivrent et réagir aux posts en ajoutant des commentaires.   Ce projet a été créé avec Java EE, Bootstrap, JQuery et MySQL. Le code source est disponible sur Github : Blog App </description>
+      <guid>https://atchagnaou.me/work/knn-iris/</guid>
+      <description>Dans ce projet, nous avons développé l&#39;algorithme KNN à partir de zéro sur les données de fleurs iris. Nous avons implémenté les fonctionnalités suivantes : Calcul de la distance euclidienne Séparation des données d&#39;entraînement et de test Calcul des métriques comme precision et recall Matrice de confusion Validation croisée Le projet a été implémenté en Java et il est disponible sur Github : KNN</description>
     </item>
-    
-    <item>
-      <title>S-Manager</title>
-      <link>https://atchagnaou.me/work/s-manager/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atchagnaou.me/work/s-manager/</guid>
-      <description>S-Manager est une application web pour la gestion d&#39;une école supérieure. Les étudiants et le personnel de l&#39;école ont accès à l&#39;application. Les professeurs peuvent.  Ce projet a été créé avec PHP et le framework Laravel, Bootstrap et MySQL.</description>
-    </item>
-    
   </channel>
 </rss>

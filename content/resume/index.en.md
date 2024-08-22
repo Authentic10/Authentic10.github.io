@@ -7,14 +7,14 @@ I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_b
 <h3>Languages</h3>
 Python, R, SQL, Javascript, Java, Scala
 
-<h3>Machine Learning & Artifical Intelligence</h3>
-Generative AI, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
+<h3>Data Analysis & Processing</h3>
+Hadoop, Spark, Hive, Impala, Talend, Pandas, Matplotlib, Tableau Desktop, Power BI
+
+<h3>Artifical Intelligence</h3>
+Machine Learning, Deep Learning, NLP, Generative AI, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
 
 <h3>Web Development</h3>
 Django, Flask, SvelteJs, VueJs, Hugo
-
-<h3>Data</h3>
-Hadoop, Spark, Hive, Impala, Talend, Pandas, Matplotlib, Tableau Desktop, Power BI
 
 <h3>Database Systems</h3>
 MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, HBase
@@ -27,7 +27,7 @@ Git, Github, Docker, Bash, WSL
 
 ## Work Experience
 
-<h3>Data Engineer</h3>
+<h3>Big Data Consulta</h3>
 <h4><i>CGI, Tours-France - (Since August 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
@@ -47,7 +47,6 @@ Git, Github, Docker, Bash, WSL
         <li>Designed data integration solutions</li>
         <li>Built pipelines for integrating data from different sources into a data hub</li>
         <li>Built data transformation and restitution pipelines</li>
-        <li>Integration testing</li>
     </ul>
 </div>
 
@@ -55,7 +54,7 @@ Git, Github, Docker, Bash, WSL
 <h4><i>University of Tours, Blois-France - (Sep 2021 ~ Aug. 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning</li>
+        <li>Made a literature review of techniques to perform <strong>sentiment analysis</strong> with machine learning and deep learning <a href='/daxmod.fr' target='_blank'>Daxmod</a></li>
         <li>Developed a toolbox to perform <strong>text classification</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>

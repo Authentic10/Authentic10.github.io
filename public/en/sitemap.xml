@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://atchagnaou.me/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/resume/</loc>
+    <loc>http://localhost:1313/en/resume/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/resume/"
+                href="http://localhost:1313/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/resume/"
+                href="http://localhost:1313/en/resume/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/work/daxmod/</loc>
+    <loc>http://localhost:1313/en/work/daxmod/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/work/daxmod/"
+                href="http://localhost:1313/work/daxmod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/work/daxmod/"
+                href="http://localhost:1313/en/work/daxmod/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/work/fatal-encounters/</loc>
+    <loc>http://localhost:1313/en/work/fatal-encounters/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/work/fatal-encounters/"
+                href="http://localhost:1313/work/fatal-encounters/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/work/fatal-encounters/"
+                href="http://localhost:1313/en/work/fatal-encounters/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/work/knn-iris/</loc>
+    <loc>http://localhost:1313/en/work/knn-iris/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/work/knn-iris/"
+                href="http://localhost:1313/work/knn-iris/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/work/knn-iris/"
+                href="http://localhost:1313/en/work/knn-iris/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>https://atchagnaou.me/en/work/</loc>
+    <loc>http://localhost:1313/en/work/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://atchagnaou.me/work/"
+                href="http://localhost:1313/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atchagnaou.me/en/work/"
+                href="http://localhost:1313/en/work/"
                 />
   </url>
 </urlset>

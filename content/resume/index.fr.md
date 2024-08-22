@@ -1,38 +1,44 @@
 # CV
 
-Je suis Ingénieur de données chez <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> en France. J'aime le <i>Développement Web</i>, l'<i>Analyse de Données</i>, l'<i>Intelligence Artificielle</i> et le <i>Cloud Computing</i>.
+Je suis Ingénieur de données chez <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> en France. Je suis aussi un Développeur, j'apprends et construis avec l'intelligence artificielle et le cloud computing
 
 ## Compétences
 
 <h3>Langages</h3>
-Python, R, SQL, Javascript, Java, PHP, Go, C#
+Python, R, SQL, Javascript, Java, Scala
 
-<h3>Machine Learning</h3>
-Scikit-Learn, Tensorflow
+<h3>Analayse et Traitement de données</h3>
+Hadoop, Spark, Hive, Impala, Talend, Pandas, Matplotlib, Tableau Desktop, Power BI
+
+<h3>Intelligence Artificielle</h3>
+Machine Learning, Deep Learning, NLP, Generative AI, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
 
 <h3>Développement Web</h3>
-Flask, ASP.Net MVC, Laravel, Java Enterprise Edition, Bootstrap, Bulma, Sass, JQuery, ReactJS, SvelteJs, VueJs, Hugo
-
-<h3>Données</h3>
-Tableau Desktop, Power BI, Talend, Pentaho, Pandas, Matplotlib
+Django, Flask, SvelteJs, VueJs, Hugo
 
 <h3>Système de bases de données</h3>
-Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, HBase
+MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, HBase
 
 <h3>Cloud Computing</h3>
 Azure, AWS, Openstack
 
 <h3>Autres</h3>
-Git, Docker, Hadoop, Bash, WSL
+Git, Github, Docker, Bash, WSL
 
 ## Expériences
 
-<h3>Ingénieur Data</h3>
+<h3>Consultant Big Data</h3>
 <h4><i>CGI, Tours-France - (Depuis Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Conception de jobs d'intégration de données dans un hub de données</li>
-        <li>Transformation et analyse de données avec des jobs Spark jobs et Talend dans un environement big data</li>
+        <li>Analyse des besoins du client et des solutions existantes</li>
+        <li>Conception de solutions d’intégration et de transformation de données</li>
+        <li>Rédaction des spécifications fonctionnelles et techniques</li>
+        <li>Mise en place de processus d’intégration, de transformation et de restitution de données</li>
+        <li>Réalisation des tests et revue de code</li>
+        <li>Rédaction de documents d’exploitation</li>
+        <li>Analyse des incidents de production</li>
+        <li>Rétro‑documentation des solutions existantes</li>
     </ul>
 </div>
 
@@ -40,8 +46,9 @@ Git, Docker, Hadoop, Bash, WSL
 <h4><i>Umanis, Tours-France - (Janvier 2022 ~ Juillet 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Migration des jobs Talend vers une technologie interne basée sur du language descriptif</li>
-        <li>Intégration de données dans un hub de données avec Talend et Spark</li>
+        <li>Conception de solutions d’intégration de données</li>
+        <li>Développement de jobs pour l’intégration de données venant de sources différentes dans un hub de données</li>
+        <li>Développement de jobs de transformation et de restitution de données</li>
     </ul>
 </div>
 
@@ -49,7 +56,7 @@ Git, Docker, Hadoop, Bash, WSL
 <h4><i>Université de Tours, Blois-France - (Septembre 2021 ~ Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>Etat de l’art des techniques pour effectuer <strong>l’analyse des sentiments</strong> avec le machine learning et deep learning</li>
+        <li>État de l’art des techniques d’analyse de sentiment et de classification de texte avec le machine learning <a href='/daxmod.fr' target='_blank'>Daxmod</a></li>
         <li>Développement d’un outil de <strong>classification de texte</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>
@@ -59,11 +66,9 @@ Git, Docker, Hadoop, Bash, WSL
 Mise place d'une palteforme de système de surveillance et de contrôle (Module d'administration)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Création d'une <strong>Restful API</strong> avec <strong>Flask</strong></li>
-        <li>Création d'une application <strong>frontend</strong> avec <strong>ReactJS</strong> communiquant avec <strong>l'API</strong></li>
-        <li>Gestion des utilisateurs</li>
-        <li>Gestion des droits d'accès</li>
-        <li>Gestion des logs</li>
+        <li>Conception d’un système pour une application de monitoring</li>
+        <li>Création d’une API REST avec Flask (Python) pour l’administration et la gestion des utilisateurs</li>
+        <li>Création d’une application front‑end avec React pour l’API</li>
     </ul>
 </div>
 
@@ -72,8 +77,8 @@ Mise place d'une palteforme de système de surveillance et de contrôle (Module 
 Gestion et configuration d'une plateforme cloud sur site.
 <div style='font-size: 17px;'>
     <ul>
-        <li>Configuration d'un réseau virtuel</li>
-        <li>Création et configuration d'une machine virtuelle Ubuntu</li>
+        <li>Création et configuration d'un réseau virtuel</li>>
+        <li>Création et configuration d’un serveur web sur Openstack</li>
     </ul>
 </div>
 
@@ -82,37 +87,67 @@ Gestion et configuration d'une plateforme cloud sur site.
 Mise en place d'une plateforme de gestion d'une école supérieure
 <div style='font-size: 17px;'>
     <ul>
-        <li>Gestion des cursus<li>
-        <li>Gestion des unités d'enseignements</li>
-        <li>Gestion des notes </li>
+        <li>Rédaction de cahier de charges, de document d’analyse, de conception et d’exploitation<li>
+        <li>Conception d’un système pour une plate‑forme de gestion d’une école supérieure</li>
+        <li>Création d’une application web avec PHP, Laravel, Bootstrap, et JQuery</li>
     </ul>
 </div>
 
 <h3>Stage - Développeur Web</h3>
 <h4><i>CERGI SA, Lomé-Togo - (Juin 2018 ~ Octobre 2018)</i></h4>
 Mise en place d'une plateforme de transaction (Module utilisateurs)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Conception d’une base de données pour la gestion des utilisateurs<li>
+        <li>Création d’une application web avec C#, ASP.NET MVC, Bootstrap, et JQuery</li>
+    </ul>
+</div>
 
 ## Formation
 
 <h3>Master - Big Data Management and Analytics</h3>
 Université de Tours, Blois-France - (2020 ~ 2022)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Business Intelligence : Entrepôt de données, Reporting<li>
+        <li>Gestion de données : Big Data, Fouille de données</li>
+        <li>Intelligence Artificielle : Reconnaissances de formes et d’images (Computer Vision), Traitement automatique du langage naturel (NLP)</li>
+    </ul>
+</div>
 
 <h3>Licence - Informatique</h3>
 Université de Tours, Blois-France - (2019 ~ 2020)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Développement d’applications web et mobiles<li>
+        <li>Gestion de bases de données</li>
+        <li>Algorithme et Complexité</li>
+    </ul>
+</div>
 
 <h3>Licence professionnelle - Génie Logiciel</h3>
 Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
+<div style='font-size: 17px;'>
+    <ul>
+        <li>Programmation et Génie Logiciel<li>
+        <li>Gestion et Administration de bases de données</li>
+        <li>Réseau</li>
+    </ul>
+</div>
 
 ## Certification
 
-<h3>Designing and Implementing Microsoft DevOps Solutions</h3>
-Microsoft, <a href='https://www.credly.com/badges/e4a583d0-b909-4883-a978-6ee9e835df4a/public_url' target='_blank'>vérifiez</a>
+<h3>Azure AI Engineer Associate</h3>
+Microsoft, <a href='https://learn.microsoft.com/en-us/users/authentic/credentials/e9464f52eac003ac' target='_blank'>check</a>
+
+<h3>Azure DevOps Engineer Expert</h3>
+Microsoft, <a href='https://www.credly.com/badges/e4a583d0-b909-4883-a978-6ee9e835df4a/public_url' target='_blank'>check</a>
 
 <h3>Azure Data Scientist Associate</h3>
-Microsoft, <a href='https://www.credly.com/badges/2a9d9ad0-15a7-44f7-8b3c-776127875cd6/public_url' target='_blank'>vérifiez</a>
+Microsoft, <a href='https://learn.microsoft.com/en-us/users/authentic/credentials/1ff1e5bfcbe8be36' target='_blank'>check</a>
 
 <h3>Machine Learning with Python</h3>
-Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>vérifiez</a>
+Jovian, <a href='https://jovian.ai/certificate/MFQTKNRQHA' target='_blank'>check</a>
 
 <br/><br/>
 

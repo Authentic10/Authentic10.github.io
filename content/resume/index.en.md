@@ -1,6 +1,6 @@
 # CV
 
-I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> in France. I am also a Developer and I am learning and building with Artifical Intelligence and Cloud Computing.
+I am a Data Engineer at <i><a href='https://www.cgi.com/france/fr-fr' target='_blank'>CGI</a></i> in France. I am also a Developer, learning and building with Artifical Intelligence and Cloud Computing.
 
 ## Skills
 
@@ -86,9 +86,9 @@ Configuration and management of an on-premise cloud.
 Designed and built a system for school management
 <div style='font-size: 17px;'>
     <ul>
-        <li>Curriculums management<li>
-        <li>Teaching units management</li>
-        <li>Grades management </li>
+        <li>Drafted of specifications, analysis, design and operating documents</li>
+        <li>Designed a system for the platform</li>
+        <li>Built a web application with PHP, Laravel, Bootstrap and JQuery</li>
     </ul>
 </div>
 

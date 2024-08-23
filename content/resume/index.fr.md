@@ -11,7 +11,7 @@ Python, R, SQL, Javascript, Java, Scala
 Hadoop, Spark, Hive, Impala, Talend, Pandas, Matplotlib, Tableau Desktop, Power BI
 
 <h3>Intelligence Artificielle</h3>
-Machine Learning, Deep Learning, NLP, Generative AI, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
+Machine Learning, Deep Learning, NLP, IA Generative, Azure AI Services, Azure Machine Learning, Scikit-Learn, Tensorflow
 
 <h3>Développement Web</h3>
 Django, Flask, SvelteJs, VueJs, Hugo
@@ -56,7 +56,7 @@ Git, Github, Docker, Bash, WSL
 <h4><i>Université de Tours, Blois-France - (Septembre 2021 ~ Août 2022)</i></h4>
 <div style='font-size: 17px;'>
     <ul>
-        <li>État de l’art des techniques d’analyse de sentiment et de classification de texte avec le machine learning <a href='/daxmod.pdf' target='_blank'>Daxmod</a></li>
+        <li>État de l’art des techniques d’analyse de sentiment et de classification de texte avec le machine learning : <a href='/daxmod.pdf' target='_blank'>Daxmod</a></li>
         <li>Développement d’un outil de <strong>classification de texte</strong> : <a href="https://github.com/Authentic10/daxmod" target="blank">Daxmod</a></li>
     </ul>
 </div>
@@ -77,7 +77,7 @@ Mise place d'une palteforme de système de surveillance et de contrôle (Module 
 Gestion et configuration d'une plateforme cloud sur site.
 <div style='font-size: 17px;'>
     <ul>
-        <li>Création et configuration d'un réseau virtuel</li>>
+        <li>Création et configuration d'un réseau virtuel</li>
         <li>Création et configuration d’un serveur web sur Openstack</li>
     </ul>
 </div>
@@ -87,7 +87,7 @@ Gestion et configuration d'une plateforme cloud sur site.
 Mise en place d'une plateforme de gestion d'une école supérieure
 <div style='font-size: 17px;'>
     <ul>
-        <li>Rédaction de cahier de charges, de document d’analyse, de conception et d’exploitation<li>
+        <li>Rédaction de cahier de charges, de document d’analyse, de conception et d’exploitation</li>
         <li>Conception d’un système pour une plate‑forme de gestion d’une école supérieure</li>
         <li>Création d’une application web avec PHP, Laravel, Bootstrap, et JQuery</li>
     </ul>
@@ -98,7 +98,7 @@ Mise en place d'une plateforme de gestion d'une école supérieure
 Mise en place d'une plateforme de transaction (Module utilisateurs)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Conception d’une base de données pour la gestion des utilisateurs<li>
+        <li>Conception d’une base de données pour la gestion des utilisateurs</li>
         <li>Création d’une application web avec C#, ASP.NET MVC, Bootstrap, et JQuery</li>
     </ul>
 </div>
@@ -109,7 +109,7 @@ Mise en place d'une plateforme de transaction (Module utilisateurs)
 Université de Tours, Blois-France - (2020 ~ 2022)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Business Intelligence : Entrepôt de données, Reporting<li>
+        <li>Business Intelligence : Entrepôt de données, Reporting</li>
         <li>Gestion de données : Big Data, Fouille de données</li>
         <li>Intelligence Artificielle : Reconnaissances de formes et d’images (Computer Vision), Traitement automatique du langage naturel (NLP)</li>
     </ul>
@@ -119,7 +119,7 @@ Université de Tours, Blois-France - (2020 ~ 2022)
 Université de Tours, Blois-France - (2019 ~ 2020)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Développement d’applications web et mobiles<li>
+        <li>Développement d’applications web et mobiles</li>
         <li>Gestion de bases de données</li>
         <li>Algorithme et Complexité</li>
     </ul>
@@ -129,7 +129,7 @@ Université de Tours, Blois-France - (2019 ~ 2020)
 Institut Africain d'Informatique, Lomé-Togo - (2016 ~ 2019)
 <div style='font-size: 17px;'>
     <ul>
-        <li>Programmation et Génie Logiciel<li>
+        <li>Programmation et Génie Logiciel</li>
         <li>Gestion et Administration de bases de données</li>
         <li>Réseau</li>
     </ul>

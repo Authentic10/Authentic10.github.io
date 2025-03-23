@@ -1,0 +1,101 @@
+baseURL = 'https://atchagnaou.me/'
+languageCode = 'fr-fr'
+title = 'Ahmed Tchagnaou'
+theme = "hugo-noir"
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[params]
+name = "Ahmed Tchagnaou"
+location = "France"
+description = "Ingénieur de données. Spécialisé dans le traitement de données, je conçois aussi en utilisant de l'IA"
+profile_image = "/images/profile.jpg"
+
+# Social Media Links
+github = "https://github.com/Authentic10"
+email = "ahmed@atchagnaou.me"
+linkedin = "https://www.linkedin.com/in/atchagnaou/"
+
+[params.socialIcons]
+github = "https://github.com/Authentic10"
+email = "ahmed@atchagnaou.me"
+linkedin = "https://www.linkedin.com/in/atchagnaou/"
+
+[[params.experience]]
+company = "CGI"
+role = "Ingénieur de données"
+period = "Jan 2022 - Présent"
+description = "Conception et mise en place de pipelines de traitements de données"
+responsibilities = [
+    "Analyse des besoins et audit des solutions existantes",
+    "Conception et implémentation de solutions d'intégration et de transformation de données",
+    "Rédaction des spécifications fonctionnelles et techniques",
+    "Contrôle qualité et revue de code",
+    "Documentation et transmission des connaissances"
+]
+
+[[params.experience]]
+company = "Université de Tours"
+role = "Recherche universitaire"
+period = "Sep 2021 - Août 2022"
+description = "Développement d'un outil de classification de texte et de données"
+responsibilities = [
+    "Etat de l'art sur les techniques d'analyse de sentiment et de classification de texte",
+    "Conception et développement d'une boîte à outils (Daxmod) pour la classification de données"
+]
+
+[[params.experience]]
+company = "ORTECH Intelligent Systems"
+role = "Développeur Web (Stage)"
+period = "Juin 2021 - Août 2021"
+description = "Développement d'une application de gestion administrative pour une plateforme de système de surveillance"
+responsibilities = [
+    "Conception d’un système en microservices pour une application de monitoring",
+    "Création d’une API REST pour l’administration",
+    "Création d’une application front‑end pour l’API"
+]
+
+[[params.experience]]
+company = "MANSTRICT Consulting"
+role = "Ingénieur Cloud (Stage)"
+period = "Juin 2020 - Juillet 2020"
+description = "Mise en place et maintenance d’une infrastructure cloud"
+responsibilities = [
+    "Gestion et configuration d’une plateforme Cloud on-premise",
+    "Première immersion dans le monde du Cloud, avec une introduction aux services AWS",
+]
+
+[[params.projects]]
+title = "Daxmod"
+description = "Boîte à outils pour la classification de données"
+tech = "Technologies utilisées (Python, Scikit-Learn, TensorFlow)"
+image = "../images/projects/daxmod_workflow.png"
+link = "https://github.com/Authentic10/daxmod"
+
+
+
+[menu]
+  [[menu.main]]
+    name = "A propos"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 2
+  [[menu.main]]
+    name = "Projets"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4

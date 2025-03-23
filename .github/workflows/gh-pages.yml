@@ -23,12 +23,15 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum','themes\hugo-noir\layouts\partials\header.html') }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
 
       - name: Build
         run: hugo --minify
+
+      - name: Copy CNAME file
+        run: cp CNAME public/ 
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

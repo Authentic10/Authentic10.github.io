@@ -88,7 +88,7 @@ link = "https://github.com/Authentic10/daxmod"
     url = "/about/"
     weight = 1
   [[menu.main]]
-    name = "Experience"
+    name = "Expérience"
     url = "/experience/"
     weight = 2
   [[menu.main]]

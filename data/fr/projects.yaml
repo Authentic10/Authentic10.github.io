@@ -1,0 +1,6 @@
+projects:
+  - title: "Daxmod"
+    description: "Bibliothèque Python développée dans le cadre d'une recherche universitaire sur la classification de texte. Fournit une interface unifiée pour l'entraînement et l'évaluation de modèles de classification (ML classique et deep learning)."
+    tech: "Python, Scikit-Learn, TensorFlow"
+    image: "/images/projects/daxmod_workflow.png"
+    link: "https://github.com/Authentic10/daxmod"

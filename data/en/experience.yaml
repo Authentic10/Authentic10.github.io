@@ -1,0 +1,48 @@
+experience:
+  - company: "CGI — Société Générale"
+    role: "Data Engineer"
+    period: "Oct 2025 - Present"
+    description: "Maintenance, enhancements and migration of data pipelines"
+    responsibilities:
+      - "Maintenance and evolution of existing projects (Talend Big Data, Spark)"
+      - "Migration of Talend Big Data jobs to Spark Scala"
+      - "Automation of playbooks with AWX"
+      - "Maintenance and monitoring of CI/CD pipelines (GitHub Actions, JFrog)"
+      - "Contribution to technical quality"
+    technologies:
+      - "Spark"
+      - "Scala"
+      - "AWX"
+      - "GitHub Actions"
+      - "JFrog"
+      - "SQL Server"
+
+  - company: "CGI — Covea"
+    role: "Data Engineer"
+    period: "Jan 2022 - Sep 2025"
+    description: "Design, development and maintenance of data pipelines"
+    responsibilities:
+      - "Design and development of new data integration and transformation pipelines"
+      - "Led the Talend 7 → Talend 8 migration (CDH → CDP)"
+      - "Bug fixing and performance improvements on identified jobs"
+      - "Retro-documentation and technical documentation of existing solutions"
+      - "Development of internal tools to improve team productivity"
+      - "Code review, knowledge transfer and team mentoring"
+      - "Writing functional and technical specifications"
+    technologies:
+      - "Talend Big Data"
+      - "Jenkins"
+      - "Bitbucket"
+      - "Cloudera CDH/CDP"
+
+  - company: "University of Tours"
+    role: "Research Engineer"
+    period: "Sep 2021 - Aug 2022"
+    description: "Development of a text and data classification tool"
+    responsibilities:
+      - "State of the art on sentiment analysis and text classification techniques"
+      - "Design and development of a toolbox (Daxmod) for data classification"
+    technologies:
+      - "Python"
+      - "Scikit-Learn"
+      - "TensorFlow"

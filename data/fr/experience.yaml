@@ -1,0 +1,48 @@
+experience:
+  - company: "CGI — Société Générale"
+    role: "Ingénieur de données"
+    period: "Oct 2025 - Présent"
+    description: "Maintenance, évolutions et migration de pipelines de données"
+    responsibilities:
+      - "Maintenance et évolutions de projets existants (Talend Big Data, Spark)"
+      - "Migration de jobs Talend Big Data vers Spark Scala"
+      - "Automatisation de playbooks avec AWX"
+      - "Maintenance et suivi de pipelines CI/CD (GitHub Actions, JFrog)"
+      - "Contribution à la qualité technique"
+    technologies:
+      - "Spark"
+      - "Scala"
+      - "AWX"
+      - "GitHub Actions"
+      - "JFrog"
+      - "SQL Server"
+
+  - company: "CGI — Covea"
+    role: "Ingénieur de données"
+    period: "Jan 2022 - Sep 2025"
+    description: "Conception, développement et maintenance de pipelines de données"
+    responsibilities:
+      - "Conception et développement de nouveaux pipelines d'intégration et de transformation de données"
+      - "Pilotage de la migration Talend 7 → Talend 8 (CDH → CDP)"
+      - "Correction de bugs et amélioration des performances sur les jobs identifiés"
+      - "Rétrodocumentation et documentation technique des solutions existantes"
+      - "Développement d'outils internes pour la productivité de l'équipe"
+      - "Revue de code, transfert de connaissances et accompagnement de l'équipe"
+      - "Rédaction des spécifications fonctionnelles et techniques"
+    technologies:
+      - "Talend Big Data"
+      - "Jenkins"
+      - "Bitbucket"
+      - "Cloudera CDH/CDP"
+
+  - company: "Université de Tours"
+    role: "Recherche universitaire"
+    period: "Sep 2021 - Août 2022"
+    description: "Développement d'un outil de classification de texte et de données"
+    responsibilities:
+      - "État de l'art sur les techniques d'analyse de sentiment et de classification de texte"
+      - "Conception et développement d'une boîte à outils (Daxmod) pour la classification de données"
+    technologies:
+      - "Python"
+      - "Scikit-Learn"
+      - "TensorFlow"

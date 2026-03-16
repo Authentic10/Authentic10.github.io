@@ -3,3 +3,6 @@ other = "Responsibilities:"
 
 [noExperienceData]
 other = "No experience data found."
+
+[noPostsYet]
+other = "No posts yet. Check back soon!"

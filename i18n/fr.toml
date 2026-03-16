@@ -3,3 +3,6 @@ other = "Responsabilités :"
 
 [noExperienceData]
 other = "Aucune donnée d'expérience trouvée."
+
+[noPostsYet]
+other = "Aucun article pour l'instant. Revenez bientôt !"

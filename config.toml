@@ -4,6 +4,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 title = 'Ahmed Tchagnaou'
 theme = "hugo-noir"
+googleAnalytics = "G-EHPWT04HPB"
 
 # URL handling
 relativeURLs = true
@@ -47,9 +48,13 @@ linkedin_username = "atchagnaou"
         pageRef = "/projects"
         weight = 3
       [[languages.fr.menu.main]]
+        name = "Blog"
+        pageRef = "/blogs"
+        weight = 4
+      [[languages.fr.menu.main]]
         name = "Contact"
         pageRef = "/contact"
-        weight = 4
+        weight = 5
 
   [languages.en]
     languageName = "English"
@@ -70,6 +75,10 @@ linkedin_username = "atchagnaou"
         pageRef = "/projects"
         weight = 3
       [[languages.en.menu.main]]
+        name = "Blog"
+        pageRef = "/blogs"
+        weight = 4
+      [[languages.en.menu.main]]
         name = "Contact"
         pageRef = "/contact"
-        weight = 4
+        weight = 5

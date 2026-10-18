@@ -29,6 +29,7 @@ experience:
       - "Développement d'outils internes pour la productivité de l'équipe"
       - "Revue de code, transfert de connaissances et accompagnement de l'équipe"
       - "Rédaction des spécifications fonctionnelles et techniques"
+      - "MVP interne de génération de données synthétiques hybride (Faker + LLM)"
     technologies:
       - "Talend Big Data"
       - "Jenkins"

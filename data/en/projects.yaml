@@ -1,4 +1,9 @@
 projects:
+  - title: "Hybrid synthetic data generator"
+    description: "Internal MVP built at CGI: generating realistic test datasets without exposing production data. Faker handles structure, volume and type consistency; an LLM enriches the fields that need semantic realism (free text, labels, cross-field consistency)."
+    tech: "Python, Faker, LLM"
+    image: "/images/projects/synthetic_data_workflow.png"
+
   - title: "Daxmod"
     description: "Python library developed as part of university research on text classification. Provides a unified interface for training and evaluating classification models (classical ML and deep learning)."
     tech: "Python, Scikit-Learn, TensorFlow"

@@ -1,14 +1,13 @@
 baseURL = 'https://atchagnaou.me/'
-languageCode = 'fr-fr'
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 title = 'Ahmed Tchagnaou'
 theme = "hugo-noir"
-googleAnalytics = "G-EHPWT04HPB"
+enableRobotsTXT = true
 
-# URL handling
-relativeURLs = true
-canonifyURLs = true
+[build]
+  [build.buildStats]
+    enable = true
 
 # Taxonomy configuration
 [taxonomies]
@@ -26,17 +25,23 @@ github_username = "Authentic10"
 email = "ahmed@atchagnaou.me"
 linkedin = "https://www.linkedin.com/in/atchagnaou/"
 linkedin_username = "atchagnaou"
+images = ["/images/og.png"]
+# Analytics sans cookie (https://www.goatcounter.com) : renseigner le code du compte
+# goatcounter = "atchagnaou"
 
 
 
 [languages]
   [languages.fr]
     languageName = "Français"
+    languageCode = "fr-FR"
     title = "Ahmed Tchagnaou"
     weight = 1
+    [languages.fr.params]
+      description = "Ingénieur de données (Data Engineering · IA/ML) : pipelines Spark/Scala, migration Big Data, IA générative appliquée à la donnée."
     [languages.fr.menu]
       [[languages.fr.menu.main]]
-        name = "A propos"
+        name = "À propos"
         pageRef = "/about"
         weight = 1
       [[languages.fr.menu.main]]
@@ -48,18 +53,17 @@ linkedin_username = "atchagnaou"
         pageRef = "/projects"
         weight = 3
       [[languages.fr.menu.main]]
-        name = "Blog"
-        pageRef = "/blogs"
-        weight = 4
-      [[languages.fr.menu.main]]
         name = "Contact"
         pageRef = "/contact"
-        weight = 5
+        weight = 4
 
   [languages.en]
     languageName = "English"
+    languageCode = "en-US"
     title = "Ahmed Tchagnaou"
     weight = 2
+    [languages.en.params]
+      description = "Data Engineer (Data Engineering · AI/ML): Spark/Scala pipelines, Big Data migrations, generative AI applied to data."
     contentDir = "content/en"
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -75,10 +79,6 @@ linkedin_username = "atchagnaou"
         pageRef = "/projects"
         weight = 3
       [[languages.en.menu.main]]
-        name = "Blog"
-        pageRef = "/blogs"
-        weight = 4
-      [[languages.en.menu.main]]
         name = "Contact"
         pageRef = "/contact"
-        weight = 5
+        weight = 4

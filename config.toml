@@ -5,6 +5,18 @@ title = 'Ahmed Tchagnaou'
 theme = "hugo-noir"
 enableRobotsTXT = true
 
+[module]
+  [[module.mounts]]
+    source = "content/fr"
+    target = "content"
+    [module.mounts.sites.matrix]
+      languages = ["fr"]
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    [module.mounts.sites.matrix]
+      languages = ["en"]
+
 [build]
   [build.buildStats]
     enable = true
@@ -64,7 +76,6 @@ images = ["/images/og.png"]
     weight = 2
     [languages.en.params]
       description = "Data Engineer (Data Engineering · AI/ML): Spark/Scala pipelines, Big Data migrations, generative AI applied to data."
-    contentDir = "content/en"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"

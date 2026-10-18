@@ -4,4 +4,4 @@ draft: false
 layout: "projects"
 ---
 
-A few recent projects showcasing my skills
+A selection of projects, from text classification research to generative AI applied to data.

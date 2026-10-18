@@ -6,3 +6,18 @@ other = "Aucune donnée d'expérience trouvée."
 
 [noPostsYet]
 other = "Aucun article pour l'instant. Revenez bientôt !"
+
+[whatIWorkWith]
+other = "Technologies"
+
+[viewAll]
+other = "Voir tout"
+
+[learnMore]
+other = "En savoir plus"
+
+[honorsTitle]
+other = "Honneurs et récompenses"
+
+[blogsTitle]
+other = "Blog"

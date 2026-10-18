@@ -1,6 +1,16 @@
 projects:
+  - title: "RAG assistant and agent over a product backlog"
+    description: "Personal project. Local-embedding RAG over 29 user stories, evaluated on 12 questions (recall@10 from 85% to 99%). Tool-calling agent, LiteLLM multi-model gateway with fallback, streaming FastAPI API, Docker Compose and e2e tests."
+    tech: "Python, Ollama, ChromaDB, LiteLLM, FastAPI, Docker, pytest"
+    image: "/images/projects/rag_agent_workflow.png"
+
+  - title: "Hybrid synthetic data generator"
+    description: "Demo. Web app for generating datasets (column-based schema, templates, CSV export) that routes each column between Faker and an LLM, with bounded LLM calls to keep costs under control."
+    tech: "Python, Flask, Faker, OpenAI API"
+    image: "/images/projects/synthetic_data_workflow.png"
+
   - title: "Daxmod"
-    description: "Python toolkit designed as part of a research project in text classification. Daxmod offers a unified framework for training, comparing, and evaluating classification models, combining both classical machine learning methods and deep learning approaches."
+    description: "Open-source Python library developed as part of university research on text classification. Provides a unified interface for training and evaluating classification models (classical ML and deep learning)."
     tech: "Python, Scikit-Learn, TensorFlow"
     image: "/images/projects/daxmod_workflow.png"
     link: "https://github.com/Authentic10/daxmod"

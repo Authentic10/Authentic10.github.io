@@ -4,4 +4,6 @@ draft: false
 layout: "experience"
 ---
 
-A data engineer in IT services since 2022, I work on major account projects. With a background in **Software Engineering** complemented by a Master's in **Big Data Management and Analytics**, I have developed solid expertise in large-scale data processing, pipeline integration and migration, and automation. I aim to grow into a full-stack data profile, deepening my knowledge of AI/ML and modern data system architectures.
+A Data Engineer at CGI since 2022, I work on major-account projects: large batch pipelines, Talend to Spark/Scala migrations, data lake optimization and operations. Alongside, I build generative AI projects (RAG, LLM agents).
+
+**Education**: Master's in Big Data Management and Analytics, University of Tours (2020 – 2022) · Bachelor's in Computer Science, University of Tours (2019 – 2020) · Professional Bachelor's in Software Engineering, African Institute of Computer Science (IAI), Togo (2016 – 2019).

@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+@source "../../layouts";
+@source "../../themes/hugo-noir/layouts";
+@source "../../content";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-sans: 'Space Grotesk', sans-serif;
+
+    --color-bg-primary-light: var(--color-white);
+    --color-text-primary-light: var(--color-neutral-800);
+    --color-text-secondary-light: var(--color-neutral-600);
+    --color-border-primary-light: var(--color-neutral-300);
+    --color-accent-light: var(--color-sky-600);
+
+    --color-bg-primary-dark: #121212;
+    --color-bg-secondary-dark: #1a1a1a;
+    --color-bg-tertiary-dark: #1a1a1a;
+    --color-text-primary-dark: var(--color-neutral-100);
+    --color-text-secondary-dark: var(--color-neutral-400);
+    --color-border-primary-dark: var(--color-neutral-700);
+    --color-accent-dark: var(--color-sky-500);
+}
+
+/* Tailwind v3 compatibility: default border color was gray-200, v4 uses currentColor */
+@layer base {
+    *, ::after, ::before, ::backdrop, ::file-selector-button {
+        border-color: var(--color-gray-200, currentColor);
+    }
+}
+
+:root {
+    color-scheme: light dark;
+}
+
+html, body {
+    background-color: #FFFFFF;
+    color: #1f2937;
+}
+html.dark, html.dark body {
+    background-color: #121212;
+    color: #f3f4f6;
+}
+.border {
+    border-color: #d4d4d8;
+}
+html.dark .border {
+    border-color: #374151;
+}
+
+.tech-carousel {
+    padding: 1rem 0;
+}
+.carousel-track {
+    white-space: nowrap;
+}
+
+.language-switcher {
+    position: relative;
+    display: inline-block;
+}
+.language-switcher-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    cursor: pointer;
+}
+.language-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    z-index: 1;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+.dark .language-dropdown {
+    background-color: #1a1a1a;
+}
+.language-switcher:hover .language-dropdown {
+    display: block;
+}
+.language-dropdown a {
+    padding: 0.75rem 1rem;
+    display: block;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+.language-dropdown a:hover {
+    background-color: rgba(0,0,0,0.05);
+}
+.dark .language-dropdown a:hover {
+    background-color: rgba(255,255,255,0.05);
+}
+.language-active {
+    font-weight: 600;
+}

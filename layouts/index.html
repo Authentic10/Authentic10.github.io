@@ -57,14 +57,14 @@
                     <div class="carousel-track carousel-track-left-to-right">
                         {{- range .row1 -}}
                             <div class="carousel-item">
-                                <i class="{{ .icon }}"></i>
+                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
                                 <span class="text-xl">{{ .name }}</span>
                             </div>
                         {{- end -}}
                         {{/* Duplicates */}}
                         {{- range .row1 -}}
                             <div class="carousel-item">
-                                <i class="{{ .icon }}"></i>
+                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
                                 <span class="text-xl">{{ .name }}</span>
                             </div>
                         {{- end -}}
@@ -75,14 +75,14 @@
                     <div class="carousel-track-reverse">
                         {{- range .row2 -}}
                             <div class="carousel-item">
-                                <i class="{{ .icon }}"></i>
+                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
                                 <span class="text-xl">{{ .name }}</span>
                             </div>
                         {{- end -}}
                         {{/* Duplicates */}}
                         {{- range .row2 -}}
                             <div class="carousel-item">
-                                <i class="{{ .icon }}"></i>
+                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
                                 <span class="text-xl">{{ .name }}</span>
                             </div>
                         {{- end -}}

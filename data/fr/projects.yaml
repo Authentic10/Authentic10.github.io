@@ -1,11 +1,16 @@
 projects:
-  - title: "Générateur de données synthétiques hybride"
-    description: "MVP interne réalisé chez CGI : génération de jeux de données de test réalistes sans exposer de données de production. Faker assure la structure, les volumes et la cohérence des types ; un LLM enrichit les champs nécessitant du réalisme sémantique (textes libres, libellés, cohérence entre champs)."
-    tech: "Python, Faker, LLM"
+  - title: "Assistant RAG et agent sur backlog produit"
+    description: "Projet personnel. RAG à embeddings locaux sur 29 user stories, évalué sur 12 questions (recall@10 de 85 % à 99 %). Agent à tool calling, passerelle LiteLLM multi-modèles avec fallback, API FastAPI en streaming, Docker Compose et tests e2e."
+    tech: "Python, Ollama, ChromaDB, LiteLLM, FastAPI, Docker, pytest"
+    image: "/images/projects/rag_agent_workflow.png"
+
+  - title: "Générateur hybride de données synthétiques"
+    description: "Démo. Application web de génération de jeux de données (schéma par colonnes, templates, export CSV) qui route chaque colonne entre Faker et un LLM, avec des appels LLM bornés pour maîtriser le coût."
+    tech: "Python, Flask, Faker, API OpenAI"
     image: "/images/projects/synthetic_data_workflow.png"
 
   - title: "Daxmod"
-    description: "Bibliothèque Python développée dans le cadre d'une recherche universitaire sur la classification de texte. Fournit une interface unifiée pour l'entraînement et l'évaluation de modèles de classification (ML classique et deep learning)."
+    description: "Bibliothèque Python open source développée dans le cadre d'une recherche universitaire sur la classification de texte. Fournit une interface unifiée pour l'entraînement et l'évaluation de modèles de classification (ML classique et deep learning)."
     tech: "Python, Scikit-Learn, TensorFlow"
     image: "/images/projects/daxmod_workflow.png"
     link: "https://github.com/Authentic10/daxmod"

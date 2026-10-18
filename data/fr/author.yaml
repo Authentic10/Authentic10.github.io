@@ -1,7 +1,7 @@
 author:
   name: "Ahmed Tchagnaou"
   location: "France"
-  description: "Ingénieur de données. Data Engineering · IA/ML"
+  description: "Ingénieur Data & IA · Data Engineering · IA générative"
   profile_image: "/images/profile.jpg"
   email: "ahmed@atchagnaou.me"
   github: "https://github.com/Authentic10"
@@ -9,6 +9,9 @@ author:
   linkedin: "https://www.linkedin.com/in/atchagnaou/"
   linkedin_username: "atchagnaou"
   certifications:
+    - title: "Databricks Certified Data Engineer Associate"
+      company: "Databricks"
+      date: "2026"
     - title: "Azure AI Engineer Associate"
       company: "Microsoft"
       date: "Juin 2024"

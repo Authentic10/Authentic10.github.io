@@ -2,9 +2,10 @@
 title: "About Me"
 draft: false
 layout: "about"
-description: "A brief description of me and my background"
 ---
 
-A data engineer with nearly 5 years of experience in an IT services company, I work on high-stakes projects for major clients. I design and maintain robust data pipelines on distributed environments, handling volumes up to several terabytes.
+A Data & AI Engineer with nearly 5 years of production data engineering at CGI for major clients: 2–3 TB batch pipelines, data lake, availability constraints and autonomy over several applications.
 
-Passionate about the entire data chain, I aim to grow into a full-stack data profile — at the intersection of data architecture, data engineering, and AI/ML — building data-centric solutions that harness the power of distributed systems and artificial intelligence.
+I am moving toward generative AI applied to data: evaluated RAG pipelines (hit@k, recall@k, MRR), tool-calling LLM agents and containerized APIs (FastAPI, Docker). I am currently deepening hybrid BM25 search, reranking, faithfulness evaluation (RAGAS) and LangGraph.
+
+Certified **Azure AI Engineer Associate** and **Databricks Data Engineer Associate**.

@@ -30,7 +30,7 @@ enableRobotsTXT = true
 [params]
 name = "Ahmed Tchagnaou"
 location = "France"
-description = "Ingénieur de données. Data Engineering · IA/ML"
+description = "Ingénieur Data & IA · Data Engineering · IA générative"
 profile_image = "/images/profile.jpg"
 github = "https://github.com/Authentic10"
 github_username = "Authentic10"
@@ -50,7 +50,7 @@ images = ["/images/og.png"]
     title = "Ahmed Tchagnaou"
     weight = 1
     [languages.fr.params]
-      description = "Ingénieur de données (Data Engineering · IA/ML) : pipelines Spark/Scala, migration Big Data, IA générative appliquée à la donnée."
+      description = "Ingénieur Data & IA : près de 5 ans de data engineering en production (Spark, Scala, data lake) et IA générative (RAG évalués, agents LLM, API conteneurisées)."
     [languages.fr.menu]
       [[languages.fr.menu.main]]
         name = "À propos"
@@ -75,7 +75,7 @@ images = ["/images/og.png"]
     title = "Ahmed Tchagnaou"
     weight = 2
     [languages.en.params]
-      description = "Data Engineer (Data Engineering · AI/ML): Spark/Scala pipelines, Big Data migrations, generative AI applied to data."
+      description = "Data & AI Engineer: nearly 5 years of production data engineering (Spark, Scala, data lake) and generative AI (evaluated RAG, LLM agents, containerized APIs)."
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"

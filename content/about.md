@@ -1,5 +1,5 @@
 ---
-title: "A propos de moi"
+title: "À propos de moi"
 draft: false
 layout: "about"
 description: "Une description brève de moi et de mon parcours"

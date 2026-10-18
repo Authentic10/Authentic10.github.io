@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Expérience"
 draft: false
 layout: "experience"
 ---
